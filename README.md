@@ -1,6 +1,5 @@
-In this project, let's build **Technology Cards** by applying the concepts we have learned till now.
+In this project, let's build **Technology Cards** Project is something like this but it is responsive 
 
-### Refer to the image below:
 
 <br/>
 <div style="text-align: center;">
